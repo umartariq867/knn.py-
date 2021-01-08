@@ -1,0 +1,4 @@
+model with knn
+save model
+load model 
+take input from user
